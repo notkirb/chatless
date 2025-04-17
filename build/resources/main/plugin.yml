@@ -1,4 +1,0 @@
-name: Chatless
-version: '1.0-SNAPSHOT'
-main: com.notkirb.chatless.Chatless
-api-version: '1.21'
