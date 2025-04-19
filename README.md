@@ -9,7 +9,7 @@ I originally created this because of a challenge I wanted to try with my friends
 
 |Description|Status|
 |-----|-----|
-|Join/Leave messages|❌Not started|
+|Join/Leave messages|🟡In progress|
 |Disable /me command|❌Not started|
 |Disable /msg command and its aliases|❌Not started|
 |Configuration file|❌Not started|
